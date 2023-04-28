@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\C语言\code\luli\coin\main.cpp(25,31): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+E:\C语言\code\luli\coin\main.cpp(30,12): warning C4477: “printf”: 格式字符串“%.50lf”需要类型“double”的参数，但可变参数 1 拥有了类型“__int64”
+  coin.vcxproj -> E:\C语言\code\luli\Debug\coin.exe
